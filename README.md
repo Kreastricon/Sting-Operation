@@ -1,0 +1,1 @@
+I am trying to get this badguy to stop clipping through the walls in Gamemaker, but I don't know what is causing it. It is a very rare glitch and it doesn't happen all the time. It seems to happen only when he is in the "Danger" or "Danger 2" State.
